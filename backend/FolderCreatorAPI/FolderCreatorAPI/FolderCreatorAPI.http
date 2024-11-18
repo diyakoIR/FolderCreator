@@ -1,0 +1,6 @@
+@FolderCreatorAPI_HostAddress = http://localhost:5212
+
+GET {{FolderCreatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

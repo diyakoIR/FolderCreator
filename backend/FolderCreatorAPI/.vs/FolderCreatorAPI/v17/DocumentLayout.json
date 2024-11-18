@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|c:\\users\\dfa.sys\\source\\repos\\foldercreatorapi\\foldercreatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|solutionrelative:foldercreatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|c:\\users\\dfa.sys\\source\\repos\\foldercreatorapi\\foldercreatorapi\\model\\folderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|solutionrelative:foldercreatorapi\\model\\folderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|c:\\users\\dfa.sys\\source\\repos\\foldercreatorapi\\foldercreatorapi\\controllers\\folderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|solutionrelative:foldercreatorapi\\controllers\\folderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|c:\\users\\dfa.sys\\source\\repos\\foldercreatorapi\\foldercreatorapi\\foldercreatorapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|solutionrelative:foldercreatorapi\\foldercreatorapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|c:\\users\\dfa.sys\\source\\repos\\foldercreatorapi\\foldercreatorapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|solutionrelative:foldercreatorapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|c:\\users\\dfa.sys\\source\\repos\\foldercreatorapi\\foldercreatorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70202A09-AEAF-4245-AEF7-4B8C5C528D87}|FolderCreatorAPI\\FolderCreatorAPI.csproj|solutionrelative:foldercreatorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FolderCreatorAPI.http",
+              "DocumentMoniker": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\FolderCreatorAPI.http",
+              "RelativeDocumentMoniker": "FolderCreatorAPI\\FolderCreatorAPI.http",
+              "ToolTip": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\FolderCreatorAPI.http",
+              "RelativeToolTip": "FolderCreatorAPI\\FolderCreatorAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-18T09:42:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FolderCreatorAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\appsettings.Development.json",
+              "RelativeToolTip": "FolderCreatorAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T09:42:30.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FolderCreatorAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\appsettings.json",
+              "RelativeToolTip": "FolderCreatorAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T09:17:00.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FolderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\Model\\FolderRequest.cs",
+              "RelativeDocumentMoniker": "FolderCreatorAPI\\Model\\FolderRequest.cs",
+              "ToolTip": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\Model\\FolderRequest.cs",
+              "RelativeToolTip": "FolderCreatorAPI\\Model\\FolderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:59:19.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoldersController.cs",
+              "DocumentMoniker": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\Controllers\\FoldersController.cs",
+              "RelativeDocumentMoniker": "FolderCreatorAPI\\Controllers\\FoldersController.cs",
+              "ToolTip": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\Controllers\\FoldersController.cs",
+              "RelativeToolTip": "FolderCreatorAPI\\Controllers\\FoldersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:56:43.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FolderCreatorAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\DFA.SYS\\source\\repos\\FolderCreatorAPI\\FolderCreatorAPI\\Program.cs",
+              "RelativeToolTip": "FolderCreatorAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:54:41.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
